@@ -1,5 +1,5 @@
 ## Hi there 👋
-print("Hello World")
+
 <!--
 **Rama5477/rama5477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
